@@ -1,3 +1,5 @@
+Space Shooters Turbo Winds Privacy Policy
+ 
 Welcome to the Space Shooters Turbo Winds app for Android!
 
 This is an open source Android app developed by Jesse Wisdom. The app is available on Google Play.
